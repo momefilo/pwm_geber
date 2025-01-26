@@ -24,8 +24,9 @@ Zum Selbskompilieren werden folgende Bibliotheken benoetigt:\
 sh_1106\
 drehgeber\
 momefilo_flash\
-Das github.com/momefilo/bibliotheken.git clonen\
-neben dem neuen Ordner "bibliotheken" das github.com/momefilo/pwm_geber.git clonen\
+\
+git clone github.com/momefilo/bibliotheken.git\
+git clone github.com/momefilo/pwm_geber.git\
 cd pwm_geber\
 mkdir build\
 cd build\
