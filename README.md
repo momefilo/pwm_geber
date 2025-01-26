@@ -2,8 +2,9 @@
 Realisiert einen vier-Kanal pwm-Geber mit einem sh1106 OLED-Display und einem KY-040 Drehgeber\
 Die eingestellten Werte bleiben nach Spannungsausfall erhalten\
 Die Kanaele laufen mit 2Khz und werden in 1%-Schritten geaendert. Mit dem Drehgeber wird der
-Kanal selektiert und mit einen Druck auf den Drehgeber ausgewählt,und der Wert mit dem Drehgeber geaendert.\
-Mit widerholtem Druck auf den Drehgeber wird er Wert gespeichert.
+Kanal selektiert und mit einen Druck auf den Drehgeber ausgewählt, der Wert mit dem Drehgeber
+geaendert und mit widerholtem Druck auf den Drehgeber wird der Wert gespeichert. Der Wert wird direkt
+auch ohne gespeichert zu sein zu auf den Ausgang uebertragen\
 Pinbelegung:\
 sh1106 sda GP4\
 sh1106 sck GP5\
