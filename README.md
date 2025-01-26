@@ -17,8 +17,10 @@ PWM-Kanal 2 GP20\
 PWM-Kanal 3 GP21\
 PWM-Kanal 4 GP22\
 ![](pwm_1.png)![](pwm_2.png)\
+\
 Zum Selbskompilieren werden folgende Bibliotheken benoetigt:\
 sh_1106\
 drehgeber\
-momefilo_flash
-
+momefilo_flash\
+Das github.com/momefilo/bibliotheken.git clonen\
+neben dem neuen Ordner "bibliotheken" das github.com/momefilo/pwm_geber.git clonen und builden und kompilieren, fertig!
