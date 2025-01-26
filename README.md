@@ -25,8 +25,7 @@ sh_1106\
 drehgeber\
 momefilo_flash\
 \
-Wenn die momefilo-Entwicklungsumgeung nicht installerst ist muessen die CMakeLists.txt angepasst werden\
-wenn doch, einfach:\
+Wenn die momefilo-Entwicklungsumgeung installiert ist, einfach:\
 cd /home/user/pico/projekte/geany/\
 git clone github.com/momefilo/bibliotheken.git\
 git clone github.com/momefilo/pwm_geber.git\

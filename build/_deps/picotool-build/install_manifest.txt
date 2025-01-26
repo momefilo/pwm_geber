@@ -1,0 +1,5 @@
+/home/momefilo/pico/projekte/geany/pwm_geber/build/_deps/picotool/picotool
+/home/momefilo/pico/projekte/geany/pwm_geber/build/_deps/picotool/picotoolTargets.cmake
+/home/momefilo/pico/projekte/geany/pwm_geber/build/_deps/picotool/picotoolTargets-release.cmake
+/home/momefilo/pico/projekte/geany/pwm_geber/build/_deps/picotool/picotoolConfig.cmake
+/home/momefilo/pico/projekte/geany/pwm_geber/build/_deps/picotool/picotoolConfigVersion.cmake
