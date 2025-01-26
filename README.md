@@ -16,6 +16,7 @@ PWM-Kanal 1 GP19\
 PWM-Kanal 2 GP20\
 PWM-Kanal 3 GP21\
 PWM-Kanal 4 GP22\
+pwm_geber.uf2 per dragNdrop auf den Pico uebertragen, fertig\
 ![](pwm_1.png)![](pwm_2.png)\
 \
 Zum Selbskompilieren werden folgende Bibliotheken benoetigt:\
