@@ -25,4 +25,10 @@ sh_1106\
 drehgeber\
 momefilo_flash\
 Das github.com/momefilo/bibliotheken.git clonen\
-neben dem neuen Ordner "bibliotheken" das github.com/momefilo/pwm_geber.git clonen und builden und kompilieren, fertig!
+neben dem neuen Ordner "bibliotheken" das github.com/momefilo/pwm_geber.git clonen\
+cd pwm_geber\
+mkdir build\
+cd build\
+cmake ..\
+make\
+fertig!
