@@ -5,7 +5,7 @@ Die Kanaele laufen mit 2Khz und werden in 1%-Schritten geaendert. Mit dem Drehge
 Kanal selektiert und mit einen Druck auf den Drehgeber ausgewählt, der Wert mit dem Drehgeber
 geaendert und mit widerholtem Druck auf den Drehgeber wird der Wert gespeichert. Der Wert wird direkt
 auch ohne gespeichert zu sein zu auf den Ausgang uebertragen\
-Pinbelegung:\
+**Pinbelegung:**\
 sh1106 sda GP4\
 sh1106 sck GP5\
 KY-040 CKL GP16\
