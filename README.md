@@ -1,4 +1,4 @@
-* **pwm_geber**
+* **pwm_geber**\
 Realisiert einen vier-Kanal pwm-Geber mit einem sh1106 OLED-Display und einem KY-040 Drehgeber\
 Die eingestellten Werte bleiben nach Spannungsausfall erhalten\
 Die Kanaele laufen mit 2Khz und werden in 1%-Schritten geaendert. Mit dem Drehgeber wird der
@@ -19,5 +19,5 @@ PWM-Kanal 4 GP22\
 Zum Selbskompilieren werden folgende Bibliotheken benoetigt:\
 sh_1106\
 drehgeber\
-momefilo_flash\
+momefilo_flash
 
