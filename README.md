@@ -11,7 +11,7 @@ sh1106 sck GP5\
 KY-040 CKL GP16\
 KY-040 DT GP17\
 KY-040 SW GP18\
-Ausgange:\
+**Ausgange:**\
 PWM-Kanal 1 GP19\
 PWM-Kanal 2 GP20\
 PWM-Kanal 3 GP21\
